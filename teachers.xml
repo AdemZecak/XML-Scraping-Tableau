@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+    <teacher>
+        <name>Sam Davies</name>
+        <age>35</age>
+        <subject>Maths</subject>
+    </teacher>
+    <teacher>
+        <name>Cassie Stone</name>
+        <age>24</age>
+        <subject>Science</subject>
+    </teacher>
+    <teacher>
+        <name>Adrian Smith</name>
+        <age>32</age>
+        <subject>History</subject>
+    </teacher>
+    <teacher>
+        <name>Bruce Dickinson</name>
+        <age>45</age>
+        <subject>History</subject>
+    </teacher>
+    <teacher>
+        <name>Janick Gers</name>
+        <age>55</age>
+        <subject>Maths</subject>
+    </teacher>
+    <teacher>
+        <name>Nico McBrian</name>
+        <age>56</age>
+        <subject>Literature</subject>
+    </teacher>
+    <teacher>
+        <name>Steve Harris</name>
+        <age>32</age>
+        <subject>Art</subject>
+    </teacher>
+    <teacher>
+        <name>Dave Murray</name>
+        <age>44</age>
+        <subject>Phyisics</subject>
+    </teacher>
+    <teacher>
+        <name>Dennis Stratton</name>
+        <age>27</age>
+        <subject>Science</subject>
+    </teacher>
+    <teacher>
+        <name>Paul Di'anno</name>
+        <age>37</age>
+        <subject>Music</subject>
+    </teacher>
+</teachers>
